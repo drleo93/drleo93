@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drleo93
-- 👀 I’m interested in Physics-aware AI models, CFD and Chemistry
-- 🌱 I’m currently learning about PINNS
+- 👀 I’m interested in Physics-aware AI models
+- 🌱 I’m currently learning about agents :)
 - 📫 How to reach me www.linkedin.com/in/leonardopulga/ or leonardo.pulga93@gmail.com
 
 <!---
